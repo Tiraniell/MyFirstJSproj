@@ -1,0 +1,11 @@
+{
+  "name": "myfirstjsproj",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "main": "node main.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
